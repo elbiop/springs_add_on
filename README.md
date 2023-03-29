@@ -3,6 +3,7 @@ A blender add-on for generating compression springs; hook and loop end extension
 <img alt="show room" src="https://user-images.githubusercontent.com/110791809/227812730-108f8b3e-379a-4da8-86c4-0538fe0eacc0.png">
 <br>
 Watch this video to see the capabilities of the add-on
+{% include youtube.html id="HXCWZrS_VjM" %}
 <br>
 
 <video src="https://www.youtube.com/embed/HXCWZrS_VjM" title="YouTube video player" controls ></video>
