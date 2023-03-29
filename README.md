@@ -5,7 +5,7 @@ A blender add-on for generating compression springs; hook and loop end extension
 Watch this video to see the capabilities of the add-on
 <br>
 
-<iframe src="https://www.youtube.com/embed/HXCWZrS_VjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<video src="https://www.youtube.com/embed/HXCWZrS_VjM" title="YouTube video player" controls ></video>
 <br>
 There is also a collection of tension spring with hook terminals you can use.
 <br>
