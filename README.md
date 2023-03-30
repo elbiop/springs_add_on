@@ -1,6 +1,7 @@
 # springs_add_on
 Capable of generating compression and tension springs with flat, hook and loop terminals. They all are fully rigged for animations.<br>
 <br>
+<img alt="show room" src="https://user-images.githubusercontent.com/110791809/228937052-132ed440-3c88-4337-98c2-5673c11d0035.jpg"><br>
 ### Watch this clip to view the capabilities of the add-on:<br>
 <a href="https://www.youtube.com/watch?v=HXCWZrS_VjM">Springs add-o for blender: https://www.youtube.com/watch?v=HXCWZrS_VjM</a>
 <br>
